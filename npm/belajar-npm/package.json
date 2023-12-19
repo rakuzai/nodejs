@@ -1,0 +1,16 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "echo 'Before Application Start",
+    "start": "node index.js",
+    "poststart": "echo 'After Application Start",
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agung Widiyanto",
+  "license": "ISC",
+  "type":"module"
+}
